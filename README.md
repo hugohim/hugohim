@@ -2,7 +2,7 @@
 
 My name is Hugo Thim, and I'm a recent Computer Science graduate looking for new opportunities to grow and contribute!
 
-- 🔭 I’m currently working on Wellpal, an AI healthcare chatbot 
+- 🔭 I’m currently working on Wellpal, an AI healthcare chatbot mobile app
 - 🌱 I’m currently learning React native and Firebase
 - 😎 I recently built a cloud-based stock updater using AWS Lambda, S3, and Shopify’s GraphQL API.
 
